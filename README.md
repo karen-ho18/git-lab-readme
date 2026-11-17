@@ -1,1 +1,1 @@
-This is my first time doing.
+This is my GitHub practice.
